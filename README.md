@@ -28,3 +28,7 @@ Dofight ne fait que regarder l'écran : il n'envoie rien au jeu, ne lit ni sa m�
 prend jamais le focus.
 
 Données : [Dofensive](https://dofensive.com).
+
+Dofight est gratuit. Pour le soutenir : [Ko-fi](https://ko-fi.com/dofight).
+
+Discord : [rejoindre le serveur](https://discord.gg/G8G4cyvpx6) (nouveautés, suggestions).
