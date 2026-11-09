@@ -26,3 +26,7 @@ Dofight only looks at the screen: it sends nothing to the game, reads neither it
 and never takes the focus.
 
 Data: [Dofensive](https://dofensive.com).
+
+Dofight is free. To support it: [Ko-fi](https://ko-fi.com/dofight).
+
+Discord: [join the server](https://discord.gg/G8G4cyvpx6) (news, suggestions).
