@@ -9,9 +9,9 @@ combat, ce qui peut te faire perdre (one-shots, invulnérabilités, mécaniques)
 
 1. Ouvre la dernière version : [Releases](https://github.com/dofight/releases/releases/latest).
 2. Télécharge `Dofight_..._x64-setup.exe` et lance-le.
-3. Dans Dofus, coche **« Afficher les coordonnées de la carte »** dans les options : Dofight lit le nom de la zone
+3. Dans Dofus, active **« Afficher les coordonnées de la carte »** dans les options : Dofight lit le nom de la zone
    juste au-dessus.
-4. Pour l'ouverture automatique en combat, garde dépliée la barre d'icônes en haut à gauche du jeu.
+4. Pour que Dofight s'ouvre tout seul en combat, garde la barre d'icônes en haut à gauche du jeu dépliée.
 
 Dofight se met ensuite à jour tout seul.
 
@@ -22,12 +22,12 @@ Dofight se met ensuite à jour tout seul.
 - **Mode Songe** : survole un groupe de monstres sur la carte, Dofight l'affiche.
 - Recherche d'un donjon, d'une zone ou d'un monstre.
 - Ouverture et fermeture automatiques au début et à la fin d'un combat (option).
-- Thèmes de l'interface de Dofus, interface en français ou en anglais.
+- Thèmes assortis à l'interface de Dofus ; interface en français ou en anglais.
 
 Dofight ne fait que regarder l'écran : il n'envoie rien au jeu, ne lit ni sa mémoire ni son trafic réseau, et ne
 prend jamais le focus.
 
-Données : [Dofensive](https://dofensive.com).
+Données : [Dofensive](https://dofensive.com), [DofusDB](https://dofusdb.fr).
 
 Dofight est gratuit. Pour le soutenir : [Ko-fi](https://ko-fi.com/dofight).
 
